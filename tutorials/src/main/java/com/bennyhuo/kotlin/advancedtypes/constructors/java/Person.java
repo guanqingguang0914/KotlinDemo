@@ -17,4 +17,11 @@ public class Person {
         System.out.println("2");
     }
 
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
