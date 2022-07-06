@@ -25,4 +25,12 @@ public class Person {
     {
         System.out.println("kt2");
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
