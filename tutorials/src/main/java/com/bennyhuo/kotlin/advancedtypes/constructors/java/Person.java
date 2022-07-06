@@ -23,7 +23,7 @@ public class Person {
         System.out.println("kt");
     }
     {
-        System.out.println("kt2");
+        System.out.println ("kt2");
     }
 
     @Override
