@@ -22,5 +22,7 @@ public class Person {
     {
         System.out.println("kt");
     }
-
+    {
+        System.out.println("kt2");
+    }
 }
