@@ -19,12 +19,8 @@ public class Person {
     {
         System.out.println("3");
     }
-
-    @Override
-    public String toString() {
-        return "Person{" +
-                "age=" + age +
-                ", name='" + name + '\'' +
-                '}';
+    {
+        System.out.println("kt");
     }
+
 }
